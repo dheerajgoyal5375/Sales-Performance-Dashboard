@@ -49,6 +49,10 @@ This project analyzes the 2022 sales performance of Vrinda Store using Microsoft
 
 9.Provided actionable recommendations to improve future sales.
 
+## Dashbord 
+<img width="835" height="355" alt="Screenshot 2026-07-25 at 10 15 32 PM" src="https://github.com/user-attachments/assets/bc134c6e-41a7-4ea8-935d-00b231f3eaf6" />
+
+
 ## Project Insights
 
 1.Women contributed approximately 64–65% of total purchases, making them the primary customer segment.
