@@ -7,8 +7,7 @@ This project analyzes the 2022 sales performance of Vrinda Store using Microsoft
 ## Dataset Used 
 - <a href="https://github.com/dheerajgoyal5375/Sales-Performance-Dashboard/blob/main/Sales%20Analysis%20dashboard%20(1).xlsx">Dataset</a>
  
-## Business Questions Solved
-
+## Questions Solved
 -Compare Sales vs Orders on a single chart.
 2.Identify the highest sales and order month.
 3.Analyze purchasing behavior of Men vs Women.
