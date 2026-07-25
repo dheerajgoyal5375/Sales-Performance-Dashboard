@@ -9,7 +9,7 @@ This project analyzes the 2022 sales performance of Vrinda Store using Microsoft
  
 ## Business Questions Solved
 
-1.Compare Sales vs Orders on a single chart.
+-Compare Sales vs Orders on a single chart.
 2.Identify the highest sales and order month.
 3.Analyze purchasing behavior of Men vs Women.
 4.Evaluate different Order Statuses (Delivered, Cancelled, Returned, Refunded).
